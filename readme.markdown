@@ -1,4 +1,5 @@
 # EventStream
+https://thlorenz.com/blog/the-power-of-nodejs-streams-and-the-event-stream-module/
 
 [Streams](http://nodejs.org/api/stream.html "Stream") are node's best and most misunderstood idea, and EventStream is a toolkit to make creating and working with streams easy.
 
